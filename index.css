@@ -1,0 +1,45 @@
+h1{
+    color: goldenrod;
+    font-size: 3em;
+}
+section{
+    text-align: center;
+    background-color:green;
+    color: white;
+    display:grid;
+    place-items: center;
+    margin: 2em 15em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-radius: 20px;
+   
+}
+#message-el{
+    font-style: italic;
+}
+p{
+    font-size: 2em;
+}
+
+button{
+    padding: 1em 5em;
+    margin-bottom: 2em;
+    color: green;
+    background-color: goldenrod;
+    border: none;
+    font-weight: bold;
+}
+
+@media screen and (max-width:600px){
+    section{
+        text-align: center;
+        background-color: green;
+        color: white;
+        display:grid;
+        place-items: center;
+        margin: 2em 2em;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        border-radius: 20px;
+    }
+   
+    
+}
