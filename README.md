@@ -1,6 +1,6 @@
 # Black-Casino-Game
 This is a basic Casino game where users try to guess numbers in order to win the Grand Casino
-Users should be able to:
+### Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 
